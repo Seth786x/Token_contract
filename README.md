@@ -3,10 +3,10 @@ A simple token system where tokens can be minted and burned
 
 This Solidity contract, titled "MyToken," creates a basic token system. It stores details like the token's name, abbreviation, and total supply. Users can mint new tokens, increasing the total supply and their balance. They can also burn tokens, ensuring sufficient balance before reducing both the total supply and their own balance. However, it lacks functionalities like transfer between addresses and advanced access control, making it suitable for educational purposes but not a fully fledged real world token.
 
-**DESCRIPTION**
+# DESCRIPTION
 This code serves as a blueprint for a simple digital token system on the blockchain. Consider a bag (the contract) containing unique digital items known as "Seth_ken" tokens (identified by "Seth"). The code keeps track of the total number of tokens created (similar to how many items are in the bag). It also keeps track of who has how many "Seth_ken" tokens (similar to who has what items in the bag). Anyone can add more tokens to the bag, but removing them requires that you already have enough. This is a very basic example, and real systems would have more features and safeguards, but it provides an idea of how blockchain tokens can be managed.
 
-**Getting Started**
+# Getting Started
 
 # EXECUTION
 
@@ -45,9 +45,9 @@ Once the code is compiled, you can deploy the contract by clicking on the "Deplo
 
 Once the cotract is deployed, you can interact with it by calling the "sayHello" function. Click on the HelloWorld" contract in the left-hand sidebar, and then click on the "sayHello" function.  Finally, click on the "transact" button to execute the function and retrieve the "HelloWorld!" message.
 
-**AUTHORS**
+# AUTHORS
 SK SAHIL TARAFDAR
 @Seth786x
 
-**LICENSE**
+# LICENSE
 This project is licensed under the GPL-3.0 License.
