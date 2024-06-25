@@ -10,7 +10,7 @@ This code serves as a blueprint for a simple digital token system on the blockch
 
 # EXECUTION
 
-TO run this program you can use Remix, an online Solidity IDE. To get started, go to the remix website at " https://t.ly/BIv2z ". Once you're on the remmix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a.sol extension (e.g., HelloWorld.sol). Copy and paste the follwing code into the file:
+To run this program you can use Remix, an online Solidity IDE. To get started, go to the remix website at " https://t.ly/BIv2z ". Once you're on the remmix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a.sol extension (e.g., HelloWorld.sol). Copy and paste the follwing code into the file:
 
 // SPDX-License-Identifier: GPL-3.0
 pragma solidity >=0.8.0 <0.9.0;
